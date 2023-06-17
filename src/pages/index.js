@@ -11,8 +11,8 @@ export default function Home() {
           src="http://express.adobe.com/page/uWBT4Xqx98HGi/"
           width="100%"
           height="100%"
-          allowtransparency="true"
-          allow="encrypted-media"
+          // allowtransparency="true"
+          // allow="encrypted-media"
         ></iframe>
       </div>
     </div>
