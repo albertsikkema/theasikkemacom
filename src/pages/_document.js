@@ -4,11 +4,6 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <script defer src="https://api.mapbox.com/mapbox-gl-js/v2.4.0/mapbox-gl.js"></script>
-        <link
-          href="https://api.mapbox.com/mapbox-gl-js/v2.4.0/mapbox-gl.css"
-          rel="stylesheet"
-        />
       </Head>
 
       <body>
